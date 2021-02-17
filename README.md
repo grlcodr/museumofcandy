@@ -1,0 +1,1 @@
+Museum of Candy website, created to practise HTML and Bootstrap/CSS. No current functionality but may expand at a later date. 
